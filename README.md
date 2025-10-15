@@ -144,10 +144,6 @@ By default, it runs at [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
 ---
 
-## 11. Sample Product Images <a name="images"></a>
-
----
-
 ## 12. Troubleshooting <a name="troubleshooting"></a>
 
 - **Permissions Issues**:  
@@ -170,5 +166,3 @@ By default, it runs at [http://127.0.0.1:8000](http://127.0.0.1:8000).
 5. Register, login, and enjoy the dashboard!
 
 ---
-
-**You're ready to use your Laravel Inventory Dashboard from an existing repo!**
